@@ -1,0 +1,415 @@
+
+/*******************************************************************/
+/* CSS CODE FOR SIGNUP BOX KIT                                     */
+/*******************************************************************/
+
+/* Global Rules */
+:focus{outline:none;}
+.elementor-column{min-height:0;}
+
+/* Style 1 */
+
+.subscribe-1 input[type="email"] {
+    border-color: #d6d6d6;
+    padding: 20px;
+    background-color:#ffffff;
+    width: 100%;
+}
+.subscribe-1 input[type="submit"]{
+	background-color:#d23d3d;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 15px 65px;
+    font-weight: 600;
+}
+
+/* Style 2 */
+.subscribe-2 input[type="email"] {
+    border-color: #434343;
+    padding: 20px;
+    background-color:#1d1d1d;
+    width: 100%;
+}
+.subscribe-2 input[type="submit"]{
+	background-color:#d23d3d;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 15px 65px;
+    font-weight: 600;
+    width: 100%;
+}
+
+
+/* Style 3 */
+
+.subscribe-3 p .icon{
+  position: absolute;
+  color: #cdcac3;
+  z-index: 100;
+  font-size: 22px;
+  top: 30%;
+  right: 3%;
+}
+
+.subscribe-3 input[type="email"] {
+    border-color: #323232;
+    padding: 15px;
+    background-color:#1d1d1d;
+    border-radius: 100px;
+    border-width: 4px;
+    opacity: 0.96;
+    width: 100%;
+}
+.subscribe-3 input[type="submit"]{
+	background-color:#d23d3d;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 15px 65px;
+    font-weight: 600;
+}
+
+
+/* Style 4 */
+.subscribe-4 p .icon{
+  position: absolute;
+  color: #cdcac3;
+  z-index: 100;
+  font-size: 22px;
+  top: 30%;
+  right: 3%;
+}
+
+.subscribe-4 input[type="email"] {
+    border-color: #323232;
+    padding: 15px;
+    background-color:#1d1d1d;
+    border-radius: 100px;
+    border-width: 4px;
+    opacity: 0.96;
+    width: 100%;
+}
+.subscribe-4 input[type="submit"]{
+	background-color:#d23d3d;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 15px 65px;
+    font-weight: 600;
+}
+
+/* Style 5 */
+.subscribe-5 input[type="email"] {
+    padding: 15px;
+    background:rgba(135,135,135,0.20);
+	border:1px solid rgba(255,255,255,0.09);
+    opacity: 0.96;
+    display: block;
+    float: left;
+}
+.subscribe-5 input[type="submit"]{
+	background-color:#43a8a3;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 14px;
+    font-weight: 600;
+}
+
+/* Style 6 */
+.subscribe-6 input[type="email"] {
+    padding: 15px;
+    background:rgba(135,135,135,0.20);
+	border:1px solid rgba(255,255,255,0.09);
+    opacity: 0.96;
+    display: block;
+    float: left;
+}
+.subscribe-6 input[type="submit"]{
+	background-color:#d43a16;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 14px;
+    font-weight: 600;
+}
+
+/* Style 7 */
+.subscribe-7 p .icon{
+  position: absolute;
+  color: #1b1b1b;
+  z-index: 100;
+  font-size: 22px;
+  top: 30%;
+  right: 3%;
+}
+
+.subscribe-7 input[type="email"] {
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    width:100%;
+}
+.subscribe-7 input[type="submit"]{
+	background-color:#d23d3d;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 15px 65px;
+    font-weight: 600;
+}
+
+/* Style 8 */
+.subscribe-8 p .icon{
+  position: absolute;
+  color: #1b1b1b;
+  z-index: 100;
+  font-size: 22px;
+  top: 30%;
+  right: 3%;
+}
+
+.subscribe-8 input[type="email"] {
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    width:100%;
+}
+.subscribe-8 input[type="submit"]{
+	background-color:#d23d3d;
+	font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+	color:#ffffff;
+    text-transform: uppercase;
+    padding: 15px 65px;
+    font-weight: 600;
+}
+
+
+/* Style 9 */
+.subscribe-9 input[type="email"] {
+    padding: 15px;
+    opacity: 0.3;
+    background: #1d1d1d;
+    border: 1px solid #393939;
+    width:100%;
+}
+.subscribe-9 input[type="submit"]{
+    background-color: #036564;
+    font-family: Boogaloo, Sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 11px 25px;
+    position: absolute;
+    top: 4%;
+    right: 1%;
+}
+
+/* Style 10 */
+.subscribe-10 input[type="email"] {
+    padding: 15px;
+    opacity: 0.3;
+    background: #1d1d1d;
+    border: 1px solid #393939;
+    width:100%;
+}
+.subscribe-10 input[type="submit"]{
+	background-color:#d23d3d;
+    font-family: Boogaloo, Sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 11px 25px;
+    position: absolute;
+    top: 4%;
+    right: 1%;
+}
+
+
+/* Style 11 */
+.subscribe-11 input[type="email"] {
+    padding: 20px;
+    opacity:0.8;
+    background:#ffffff;
+    width: 100%;
+    border:none;
+}
+.subscribe-11 input[type="submit"]{
+	background:none;
+	font-family: 'Arvo', serif;
+    font-size:18px;
+	color:#ffffff;
+    text-transform: capitalize;
+    margin-top:-20px;
+}
+
+/* Style 12 */
+.subscribe-12 input[type="email"] {
+    padding: 20px;
+    opacity:0.8;
+    background:#bb2840;
+    width:100%;
+    border:none;
+}
+.subscribe-12 input[type="submit"]{
+	background:none;
+	font-family: 'Arvo', serif;
+    font-size:18px;
+	color:#532436;
+    text-transform: capitalize;
+     margin-top:-20px;
+}
+
+/* Style 13 */
+.subscribe-13 p .icon{
+  position: absolute;
+  color: #cdcac3;
+  z-index: 100;
+  font-size: 22px;
+  top: 30%;
+  right: 3%;
+  opacity: 0.69;
+}
+
+.subscribe-13 input[type="email"] {
+    background: #ffffff;
+    border: none;
+    padding: 20px;
+    opacity: 0.9;
+    width: 100%;
+}
+.subscribe-13 input[type="submit"]{
+	text-transform: capitalize;
+    background: #ebe3aa;
+    font-weight: lighter;
+    border-radius: 42px;
+    font-size: 24px;
+    color: #5d4157;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 25px;
+}
+
+/* Style 14 */
+.subscribe-14 p .icon{
+  position: absolute;
+  color: #cdcac3;
+  z-index: 100;
+  font-size: 22px;    
+  top: 30%;
+  right: 3%;
+  opacity: 0.69;
+}
+
+.subscribe-14 input[type="email"] {
+    background: #88415e;
+    border: none;
+    padding: 20px;
+    opacity: 0.4;
+    width:100%;
+}
+.subscribe-14 input[type="submit"]{
+	text-transform: capitalize;
+    background: #ebe3aa;
+    font-weight: lighter;
+    border-radius: 42px;
+    font-size: 24px;
+    color: #5d4157;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 25px;
+}
+
+/* Style 15 */
+.subscribe-15 p .icon{
+  position: absolute;
+  color: #cdcac3;
+  z-index: 100;
+  font-size: 22px;
+  top: 30%;
+  right: 3%;
+}
+
+.subscribe-15 input[type="email"] {
+    padding: 20px;
+    border: none;
+    opacity: 0.7;
+    background: #183B64;
+    width: 100%;
+}
+.subscribe-15 input[type="submit"]{
+	text-transform: capitalize;
+    background: #ebe3aa;
+    font-weight: lighter;
+    border-radius: 42px;
+    font-size: 24px;
+    color: #5d4157;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 25px;
+}
+
+/* Style 16 */
+.subscribe-16 p .icon{
+  position: absolute;
+  color: #cdcac3;
+  z-index: 100;
+  font-size: 22px;
+  top: 30%;
+  right: 3%;
+}
+
+.subscribe-16 input[type="email"] {
+    padding: 20px;
+    border: none;
+    opacity: 0.7;
+    background: #140918;
+    width: 100%;
+}
+.subscribe-16 input[type="submit"]{
+	text-transform: capitalize;
+    background: #ebe3aa;
+    font-weight: lighter;
+    border-radius: 42px;
+    font-size: 24px;
+    color: #5d4157;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 25px;
+}
+
+
+
+@media (max-width: 767px) { 
+/* style 3 & 4 bg styling */
+.subscribe-3 .elementor-background-overlay, .subscribe-4 .elementor-background-overlay{background-size: 40% 80%;}   
+}
+
+@media (max-width: 480px) {
+/* style 3 icon Fixing */    
+.subscribe-3 p .icon {right: 7%;}
+    
+/* style 3 & 4 bg styling */    
+.subscribe-3 .elementor-background-overlay, .subscribe-4 .elementor-background-overlay{background-size: 30% 50%;}   
+    
+/* style 5 & 6 email box spacing */      
+.subscribe-5 input[type="submit"], .subscribe-6 input[type="submit"]{margin-top:15px;}
+}
+
+@media (max-width: 320px) {
+/* style 3 & 4 bg styling */
+.subscribe-3 .elementor-background-overlay, .subscribe-4 .elementor-background-overlay{background-size: 50% 50%;}
+
+}
+
+
+
+/*******************************************************************/
